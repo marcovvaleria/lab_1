@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<music>
+    <genre>
+        <jazz time="40's">
+            <name>So What</name>
+            <author>Miles Davis</author>
+            <album>Kind of Blue</album>
+            <desc>The opening track on legendary trumpeter Miles’ landmark album Kin
+                d Of Blue is one of the best-known examples of modal jazz.</desc>
+        </jazz>
+        <jazz time="60's">
+            <name>Fly Me To The Moon</name>
+            <author>Frank Sinatra</author>
+            <album>Remember</album>
+            <desc>Originally penned by Bart Howard in 1954 and also recorded by Nat ‘King’
+                Cole, Peggy Lee and more. The definitive version, though, is surely Frank’s
+                1964 recording.</desc>
+        </jazz>
+    </genre>
+    <genre>
+        <rock time="80's">
+            <name>Purple Haze</name>
+            <author>Jimi Hendrix</author>
+            <album>De Lane Lea</album>
+            <desc>There are famous riffs, and then there's Purple Haze.</desc>
+        </rock>
+    </genre>
+</music>
